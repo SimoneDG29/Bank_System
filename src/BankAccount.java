@@ -1,6 +1,6 @@
 
 public class BankAccount {
-	int fa = 5;
+	int faro = 5;
 	protected String IBAN;
 	protected double Saldo=0.0d;
 	private Owner Owner;
